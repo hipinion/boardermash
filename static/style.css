@@ -1,0 +1,17 @@
+.flash {
+    background-color:#FFF000;
+}
+
+#lboarder, #rboarder {
+    transition: all .3s;
+}    
+
+#lboarder {
+    float: left;
+}
+
+#rboarder {
+    float: right;
+}
+
+
