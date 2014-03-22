@@ -7,5 +7,5 @@ import
 )
 
 func main() {
-
+	fmt.Printf("SUCK MY BUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT")
 }
